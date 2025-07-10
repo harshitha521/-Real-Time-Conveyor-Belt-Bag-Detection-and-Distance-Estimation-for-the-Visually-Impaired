@@ -1,2 +1,2 @@
-# Real-Time-Conveyor-Belt-Bag-Detection-and-Distance-Estimation-for-the-Visually-Impaired
+# Real Time Conveyor Belt Bag Detection and Distance Estimation for the Visually Impaired
 A real-time vision system to help visually impaired users detect luggage on conveyor belts. It uses YOLOv8 for bag detection, estimates distance from the user, and identifies bags using QR codes or OCR. Designed for dynamic environments, the system can be integrated with wearable devices for real-time audio or visual feedback.
